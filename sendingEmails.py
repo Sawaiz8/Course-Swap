@@ -2,8 +2,8 @@ def sendEmail(subject = "", body = "", recievers = ["shah.s.a.ahmed@gmail.com"])
     import smtplib
     import os
 
-    EMAIL_ADDRESS = "empowermonitor@gmail.com"
-    EMAIL_PASSWORD = "strong1,"
+    EMAIL_ADDRESS = "<Enter Email>"
+    EMAIL_PASSWORD = "Enter password"
 
     with smtplib.SMTP("smtp.gmail.com", 587) as smtp: #Make an Stmp connection to Gmail
         smtp.ehlo() #Ehlo  
