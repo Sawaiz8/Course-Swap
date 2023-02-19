@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "focus-antler-305412",
+  "private_key_id": "a3d41b4be1aa7b52fba18930b27ae348c714656e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGR17LKyR9K4PI\nlLC8KLlMwNZLMn5QXn5A3e0YOTnkeySfg6x4IIbJDFN2BQ6xXqXnQl77/V+grIdr\nNWs9CDvCh0EY9EGinHxZhHl6+OvmIhtla+Q5XPM3cyXZgrl3YVr0GNVgFqm8ttIm\nZnbeBiFSnFL3WhBIUSXO99VaHCsgAjIzGfP0D5DQI/niTRmsnDH1qc66l/x6YH9L\nUG01hXmlHi5pwwHgpJwc7q0+tLy8bE5pJQMzYDPH7I6b7YwNntDRC2qFhFjV8XIF\nyIGJcl+YtF3dPsHPHuXDnxrt6XRLQaJ3d2k2tR2/a/AfFd+VJV3r1LR3AL5kHteB\n85rb1K3JAgMBAAECggEAVHspURCHQgvN4SM1cF47oY/SXoTbm/u++H12XWlYmNi9\nIHgWfrKBK11knDcIbRtiPbgiR2TMH2YTZuMCV6VP7RD69BpycsoRE4Uly3cO7+Wd\nXafMPIK1oG0f9d7EjjB9c96233OYi68ruC/VOsFK5mtz0C9gG6fzn40qKvQwjbiQ\n2FBPDfhzgb+ry8X8rp8AXjQH1DqWs7fjK6uqBq8NyEGsqXUIPIG+/+oASEKeMmWF\nWXRvJ48za0+IsxaeJJ2gXA8b726NaEFCdgzeahgPnfhe0NrRZAQBjuJP73SEH3+Q\nUMQSIczLwCY+T4EdTBrI132ktw3Are0WtWhWXF2JDwKBgQD5UFigSIjRUMyFPNUg\nmSuIhwEm7oS38lMH54rWQSioOf5IQufV8vjAeMHniOc1xQcxPgbrfoPZ1WJCWuYJ\nnq6mSJSYSGfxSGXa5i6dF0AuhDKkjCwy7MTbJEJ4rKSIp1I3xLr2fFdfjTfHNgib\no9ERC2YfxJoNhisVoS2Gl0WOYwKBgQDLmKUfe9bmDkk1VCfo+LWZmhxsQidwDs+R\n/Wi7EXz/aTanjoQPm79Aq49EEaqJzcCaUK0E7RRlG/dA9UIeKEF2eBha7orIcOvq\nX9VCbAo/8z25ESzw7WLg8Q7o82gaAcWHxD90MQNm5lpncmt41ulGUITWsLNmtMf/\naJBSGVCk4wKBgQC5g53O9upHxrXI1vFIJnGMT9j9nTJIpho+oX5f23BjbXPXVWGp\ng/ixT6oJnYdeLVQiwiLoDOYTq4JIGddehSM0PIHFpushUVvpPKqm3ew2MMx2QI+K\n/T+mSR7lKKHtxYOaV9s/GlrxkOVWaNCS75zb7/132hU/xvw8RgjYQ6vQPQKBgHIQ\ngipiamKXjGJpVLbMaIm28segRJIeaiKDk+KCiMJbwvga+1f3TS5BL9HWB/KOqKKM\nInNJFA0Vnu/wuGtG6G4kGJkRXgWwZiv4JvXAq/lqIKGHwuL0TFp0E4Nlo2Q2q+FF\njLtfHmXPFsUwMJAR772qLNJPSyN2kzo/7eNhNXI7AoGBAOz1di1TA8xlT1zs9xBY\noGgkC6F2TqgivTbvVvGlapM0wDp2E37ROSF91K7N1rXShjoNh3FroQqN+qpP1nsx\n5WX5nzZNIfrqh/rxm2cU9gLtauyChl4DZ64eJRpIcwveESJ05TG0+U4v2iSWmjwU\n/G9eTb+ALi9wdYr5qbT6cPXo\n-----END PRIVATE KEY-----\n",
+  "client_email": "courseex@focus-antler-305412.iam.gserviceaccount.com",
+  "client_id": "106499922645142760525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/courseex%40focus-antler-305412.iam.gserviceaccount.com"
+}
